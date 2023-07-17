@@ -30,6 +30,9 @@ gem "jbuilder"
 # Simple Form
 gem "simple_form"
 
+# Devise Gem
+gem "devise"
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
