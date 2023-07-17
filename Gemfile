@@ -33,6 +33,13 @@ gem "simple_form"
 # Devise Gem
 gem "devise"
 
+# Geocoder
+gem "geocoder"
+
+# Sass Rails
+gem 'sass-rails'
+
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
